@@ -1,0 +1,33 @@
+﻿  Vector4.cpp
+  Vector3.cpp
+  Triangle.cpp
+  OGLWindow.cpp
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\opengl\oglwindow.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OGLTexture.cpp
+  OGLShader.cpp
+  OGLMesh.cpp
+  OGLCube.cpp
+  OBJFileReader.cpp
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\objfilereader.cpp(118): warning C4101: 'tidx4': unreferenced local variable
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\objfilereader.cpp(114): warning C4101: 'index4': unreferenced local variable
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\objfilereader.cpp(110): warning C4101: 'dummy': unreferenced local variable
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\objfilereader.cpp(116): warning C4101: 'nidx4': unreferenced local variable
+  Matrix4x4.cpp
+  ImageIO.cpp
+  GFXiiFramework.cpp
+  D3D11Window.cpp
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\d3d11\d3d11window.cpp(156): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\d3d11\d3d11window.cpp(171): warning C4244: 'argument': conversion from 'double' to 'UINT8', possible loss of data
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\d3d11\d3d11window.cpp(201): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\d3d11\d3d11window.cpp(202): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\d3d11\d3d11window.cpp(209): warning C4305: 'argument': truncation from 'double' to 'float'
+  D3D11Texture.cpp
+  D3D11Shader.cpp
+  D3D11Mesh.cpp
+  D3D11Cube.cpp
+  BaseApplication.cpp
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\baseapplication.cpp(124): warning C4101: 'wmEvent': unreferenced local variable
+\\ctstudent2\studentusers\100393633\desktop\gfxiiframework\gfxiiframework\baseapplication.cpp(124): warning C4101: 'wmId': unreferenced local variable
+  Generating Code...
+  GFXiiFramework.vcxproj -> \\ctstudent2\studentusers\100393633\Desktop\GFXiiFramework\Debug\GFXiiFramework.exe
+  GFXiiFramework.vcxproj -> \\ctstudent2\studentusers\100393633\Desktop\GFXiiFramework\Debug\GFXiiFramework.pdb (Full PDB)
